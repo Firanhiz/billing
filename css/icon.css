@@ -1,0 +1,34 @@
+.icon {
+    width: 100%;
+    height: 100%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.icon-general {
+    background-image: url(../icons/general-icon.svg);
+}
+
+.icon-password {
+    background-image: url(../icons/password-icon.svg);
+}
+
+.icon-invitations {
+    background-image: url(../icons/invitations-icon.svg);
+}
+
+.icon-billing {
+    background-image: url(../icons/billing-icon.svg);
+}
+
+.icon-apps {
+    background-image: url(../icons/apps-icon.svg);
+}
+
+.icon-log-out {
+    background-image: url(../icons/log-out-icon.svg);
+}

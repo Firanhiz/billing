@@ -1,0 +1,13 @@
+:root {
+    --body-color: #E8E8FD;
+    --left-side-color: #F8F8FF;
+    --right-side-color: linear-gradient(322deg, #F8F8FF 0%, #FFF 100%);
+    --color-bunting: #1A194D;
+    --color-kimberly: #62618F;
+    --size-14: 14px;
+    --size-16: 16px;
+    --font-weight-700: 700;
+    --font-weight-500: 500;
+    --margin-10: 10px;
+    --margin-24: 24px;
+}
